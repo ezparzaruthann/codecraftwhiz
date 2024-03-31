@@ -1,0 +1,31 @@
+{
+  "name": "codecraftwhiz",
+  "version": "1.0.2",
+  "description": "codecraftwhiz",
+  "type": "module",
+  "main": "codecraftwhiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezparzaruthann/codecraftwhiz"
+  },
+  "website": "https://github.com/ezparzaruthann/codecraftwhiz.git",
+  "keywords": [
+    "codecraftwhiz"
+  ],
+  "author": "ezparzaruthann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezparzaruthann/codecraftwhiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/ezparzaruthann/codecraftwhiz#readme",
+  "dependencies": {
+    "programdevcraftsman": "1.0.2"
+  }
+}
